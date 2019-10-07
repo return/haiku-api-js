@@ -1,0 +1,12 @@
+{
+	"dependencies": [
+		"nbind"
+	],
+	"includes": [],
+	"ldflags": [
+		"-shared",
+		"-o _haiku.so",
+		"-L/boot/system/lib",
+		"-lbe"
+	]
+}
