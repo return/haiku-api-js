@@ -10,7 +10,7 @@ Run these commands:
 
 `git clone https://github.com/return/haiku-api-js`
 
-`cd haiku-api.js`
+`cd haiku-api-js`
 
 `npm install`
 
